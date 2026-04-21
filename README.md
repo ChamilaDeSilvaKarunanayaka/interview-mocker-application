@@ -22,6 +22,18 @@ InterviewGenie is a full-stack AI-powered web application that helps users pract
 - Integrated AI (Gemini) for interview generation and feedback
 - Worked on backend APIs and database design
 
+---
+
+## 🎥 Demo
+
+<p align="center">
+  <a href="https://www.linkedin.com/posts/dcdskarunanayaka_%F0%9D%90%88%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%AE%F0%9D%90%9C%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%88%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AF%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%B0%F0%9D%90%86%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9E-activity-7358534778528100354-ggg5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE51YIEBrTCtX1BSo373XMSL-9dyXkfWh1o">
+   <img width="630" height="355" alt="image" src="https://github.com/user-attachments/assets/5d4c07d4-740f-4074-b3ca-36a301cbd63a" />
+
+  </a>
+</p>
+
+---
 ## 📸 Screenshots
 <img width="1911" height="1073" alt="Screenshot 2026-04-18 010755" src="https://github.com/user-attachments/assets/6f7a4bd0-04c7-4481-bc16-3a1dcb656f80" /><br><br>
 <img width="1862" height="898" alt="Screenshot 2026-04-18 010834" src="https://github.com/user-attachments/assets/f87ddc12-953c-449c-8698-8a85e8e43cd8" /><br><br>
